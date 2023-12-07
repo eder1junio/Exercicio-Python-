@@ -6,4 +6,4 @@ taxa = float(input('qual e a taxa mensal do deposito'))
 
 for n in range(1,25):
     valor = valor+(valor *(taxa/100))
-    print(valor)
+    print(f'mês {n} valor {valor:.2f}')
