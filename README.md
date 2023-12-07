@@ -1,2 +1,2 @@
-# Exerxio-Python-
-Repositorios dos exercio de fixação
+# Exercicio-Python
+Repositorios dos exercìcio de fixação
