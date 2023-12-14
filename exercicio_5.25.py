@@ -1,0 +1,3 @@
+#escreva um progrma que calcule a raiz quadrada de um numero. Utilize o método de Newton para obeter um resultado aproximando.
+#sendo n oo numero a obter a rais quadrada, considere a base b=2. calcule p usando a formula de p=(b+(n/b))/2.agora calcule o quadrado de p.
+#a casa passo faça b=p e recalcule p usando a fomula apresentada. pare quando a diferença absoluta entre n e o quadrado de p for menor que 0,0001.
