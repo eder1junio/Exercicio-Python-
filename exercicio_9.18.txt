@@ -1,0 +1,4 @@
+O que  acontece se o nome ou o telefone  contiverem o caractere usado como separador  em seu conteudo?
+Explique o problema e propopanha uma solução.
+Ocorre um erro avisando que a mais valores a desempacotar dificutando a leitura e a gravação, uma forma  de contorna esse problema e nao permi-
+tir que seja escrios esse caractere no nome ou telefone ou usar um caracter improvavel de ser utilizado

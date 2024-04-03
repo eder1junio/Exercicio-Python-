@@ -1,0 +1,3 @@
+Explique como os campos nome e telefone são armazenados no arquivo de saida:
+os campos nome e telefone são primeiro armagenados em uma variavel, depos a função "grava()" abre o 
+arquivo utilizando a a palavra reservado "with open" logo em seguida usa a função "for" para grava no arquivo. 

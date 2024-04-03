@@ -9,9 +9,10 @@ def contaPala(arquivo):
         for linha_n , linha in enumerate(arquivo1,start=1):
             for pala_n ,palavras in enumerate(linha.split(),start=1):
                 palavras = palavras.strip(".!?").lower()
-                dicio[palavras] = (linha_n,pala_n)
-        
-
+                if palavras in dicio:
+                    dicio[palavras].append((linha_n,pala_n))
+                else:
+                    dicio[palavras] = (linha_n,pala_n)
     return dicio                                  
 
 
