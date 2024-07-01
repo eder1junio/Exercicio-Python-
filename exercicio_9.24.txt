@@ -1,0 +1,2 @@
+O que  acontece com agenda se ocrrer um erro de leitura ou gravação?
+o Progrma trava e a ponta um erro "FileNotFoundError" tendo que finaliza o programa. 
